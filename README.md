@@ -12,7 +12,7 @@ In this folder is a list of FPGA projects I've completed written in verilog/syst
 
 # Nexys A7-100T
 
-![nexys](https://user-images.githubusercontent.com/89544050/155069059-408146bd-6cfb-488c-94d4-f4c86cc473e7.png)
+![nexys](![nexys-a7-top-600](https://user-images.githubusercontent.com/89544050/155069288-af080826-a7b1-4caf-865b-26da90537f1b.png))
 
 ## Nexys A7-100T Specifications
 
