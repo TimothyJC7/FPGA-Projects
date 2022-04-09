@@ -37,4 +37,4 @@ Note that the UART modules do not require a Tx module because the FPGA is not re
 
 # Video 
 
-![FPGA-Based Bluetooth Piano](https://youtu.be/U79PQejC8zc)
+[FPGA-Based Bluetooth Piano](https://youtu.be/U79PQejC8zc)
